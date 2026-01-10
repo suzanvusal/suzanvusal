@@ -67,7 +67,7 @@ I specialize in:
 - n8n
 
 ### 🖥️ OS
-- Linux
+- Linux , MacOs, Windows 
 
 ---
 
