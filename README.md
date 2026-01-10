@@ -1,16 +1,96 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sujan </h1>
 
-<!--
-**suzanvusal/suzanvusal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&center=true&vCenter=true&width=800&lines=Developer+turned+DevOps+Engineer;Cloud+%7C+Kubernetes+%7C+GitOps;AWS+%7C+Azure+%7C+Terraform;Automation+%7C+Monitoring+%7C+Security;Always+Learning+%26+Building" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+🚀 Developer turned **DevOps / Cloud Engineer** with hands-on experience in building  
+**scalable, secure, and automated cloud-native platforms**.
+
+I specialize in:
+- Infrastructure as Code
+- Container orchestration
+- CI/CD & GitOps
+- Monitoring & Observability
+- Cloud & DevSecOps practices
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud Platforms
+- AWS
+- Azure
+
+### 📦 Containerization & Orchestration
+- Docker
+- Kubernetes
+- Amazon EKS
+- Helm
+
+### 🏗️ Infrastructure as Code & Automation
+- Terraform
+- Ansible
+- GitOps
+- Bash Shell Scripting
+
+### 🔁 CI/CD & Version Control
+- GitHub
+- GitLab
+- GitHub Actions
+
+### 📊 Monitoring & Observability
+- Prometheus
+- Grafana
+
+### 🗄️ Databases
+- MongoDB
+- MySQL
+
+### 👨‍💻 Backend & Frameworks
+- Python
+- Django
+- Flask
+- Node.js
+
+### 🎨 Frontend
+- HTML
+- CSS
+- JavaScript
+- React.js
+
+### 🤖 AI & Automation
+- Generative AI
+- n8n
+
+### 🖥️ OS
+- Linux
+
+---
+
+## 🧰 Tools & Technologies
+![My Skills](https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,terraform,ansible,github,gitlab,linux,bash,python,javascript,react,nodejs,django,flask,mongodb,mysql,grafana,prometheus)
+
+---
+
+## 🌐 Portfolio & Contact
+- 🌐 Website: https://sujincloud.net
+- 📧 Email: contactmycottage@gmail.com
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suzanvusal&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzanvusal&layout=compact" />
+</p>
+
+---
+
+⭐ *Developer mindset. DevOps execution. Cloud scale.*
