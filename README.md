@@ -68,9 +68,8 @@ I specialize in:
 ### 🤖 AI & Automation
 - Generative AI
 - n8n
-
-### 🖥️ OS
-- Linux , MacOs, Windows 
+*************************
+i love linux 
 
 ---
 
