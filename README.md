@@ -69,7 +69,7 @@ I specialize in:
 - Generative AI
 - n8n
 *************************
-i love linux 
+I Love Linux. 🚀
 
 ---
 
