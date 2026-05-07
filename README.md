@@ -7,7 +7,7 @@
 ---
 
 ## 👨‍💻 About Me
-🚀 Developer turned **DevOps / Cloud Engineer** with hands-on experience in building  
+🚀 Developer turned **Tech Researcher** with hands-on experience in building  
 **scalable, secure, and automated cloud-native platforms**.
 ## 🧰 Tools & Technologies
 ![My Skills](https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,terraform,ansible,github,gitlab,linux,bash,python,javascript,react,nodejs,django,flask,mongodb,mysql,grafana,prometheus)
