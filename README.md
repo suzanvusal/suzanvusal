@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sujan </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&center=true&vCenter=true&width=800&lines=Developer+turned+DevOps+;Cloud+%7C+Kubernetes+%7C+GitOps;AWS+%7C+Azure+%7C+Terraform;Automation+%7C+Monitoring+%7C+Security;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&center=true&vCenter=true&width=800&lines=Developer+turned+DevOps+;Cloud+%7C+Kubernetes+%7C+GitOps;AWS+%7C+Azure+%7C+Terraform;Automation AIops/Mlops researcher +%7C+Monitoring+%7C+Security;Always+Learning+%26+Building" />
 </p>
 
 ---
