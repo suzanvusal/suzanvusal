@@ -8,6 +8,7 @@
 
 ## 👨‍💻 About Me
 🚀 **Tech Researcher** 
+    Aiops,Mlops,LLMs
 
 ## 🧰 Tools & Technologies
 ![My Skills](https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,terraform,ansible,github,gitlab,linux,bash,python,javascript,react,nodejs,django,flask,mongodb,mysql,grafana,prometheus)
