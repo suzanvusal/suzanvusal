@@ -79,7 +79,7 @@ I Love Linux. 🚀
 
 ## 🌐 Portfolio & Contact
 - 🌐 Website: https://sujincloud.net
-- 📧 Email: contactmycottage@gmail.com
+  
 
 ---
 
