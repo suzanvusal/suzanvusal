@@ -72,8 +72,6 @@ I Love Linux. 🚀
 
 
 
-## 🌐 Portfolio & Contact
-- 🌐 Website: https://sujincloud.net
   
 
 ---
