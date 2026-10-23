@@ -11,6 +11,7 @@
 
 ---
 I specialize in:
+- AI Security
 - Infrastructure as Code
 - Container orchestration
 - CI/CD & GitOps
